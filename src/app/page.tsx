@@ -57,8 +57,6 @@ export default function Home() {
   );
 
   useEffect(() => {
-    if (searchTerm.trim().length === 0) return;
-
     const fetchPhotos = async () => {
       try {
         setIsSearching(true);
