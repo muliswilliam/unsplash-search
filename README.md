@@ -1,8 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Setting up
-
-1. Make sure you have both [Node.js](https://nodejs.org/en/) installed.
+1. Make sure you have [Node.js](https://nodejs.org/en/) installed.
 2. Clone this repository.
 3. Run `npm install` to install all dependencies.
 4. Create a `.env.local` file in the root directory of the project and add the following:
